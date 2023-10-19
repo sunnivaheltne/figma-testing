@@ -4,9 +4,9 @@
 
 
 h1 {
-  @apply text-4xl text-violet-400;
+  @apply text-4xl;
 }
 
 p {
-  @apply text-sm md:text-base leading-7 md:leading-8 text-gray-500;
+  @apply text-sm md:text-base leading-7 md:leading-8;
 }
